@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/awayzer/ttgf-jct-PoC
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_JCT_PoC
+  project: ttgf jct PoC
+  size: 1x1
+  kind: digital (Verilog)
+  commit: e7183fec3653f9c27c6bb15e6be50c0012a6d8f6
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_JCT_PoC
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_JCT_PoC
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T23:13:55Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26b/tt_um_JCT_PoC
+- upstream/main
